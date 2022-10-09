@@ -63,3 +63,9 @@ body {
   -webkit-animation-timing-function: linear;
   animation-timing-function: linear;
 }
+
+.example-img {
+  width: 500px;
+  height: auto;
+  margin-top: 1em;
+}
